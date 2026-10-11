@@ -19,6 +19,7 @@ augbastos/afkswitch
 augiefra/claude-mods
 BatuhanCakmakk/wavy-usage
 ben-rogerson/claude-counter-strike
+BjoernSchotte/ccmod-amp
 chrisluo5311/Pixel-Play
 danilpavlov/telescope-claude-code
 danzerzine/claude-council
